@@ -22,9 +22,9 @@ Subset Sum Problem
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** – Frontend framework
 - **Bootstrap** – UI styling and layout
-- **JavaScript (ES6+)** – Logic and functionality
+- **JavaScript** – Logic and functionality
 - **Modular Components** – Easy to scale and maintain
